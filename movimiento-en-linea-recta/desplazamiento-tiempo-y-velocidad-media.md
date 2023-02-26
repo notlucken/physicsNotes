@@ -84,7 +84,9 @@ La rapidez media no es la magnitud de la velocidad media.
 
 {% endhint %}
 
-## Ejercicio
+## Aceleración Media
+
+## Ejercicios
 
 Un guepardo acecha 20 m al este del escondite de un observador. En el tiempo t = 0, el guepardo ataca a un antílope y empieza a correr en línea recta. Durante los primeros _2.0 s_ del ataque, la coordenada _x_ del guepardo varía con el tiempo según la ecuación _**x = 20 m + (5.0 m/s^2 )t^2.**_&#x20;
 
