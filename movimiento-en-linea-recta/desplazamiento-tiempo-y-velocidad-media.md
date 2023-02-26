@@ -6,7 +6,7 @@ Una forma útil de describir el movimiento de la partícula es en términos del 
 
 Supongamos que una partícula parte del reposo, y 1.0s después del arranque, está en el punto _P1_ a 19m del origen, y que 4.0s después está en el punto _P2_ a 277m del origen.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 El _desplazamiento_ de la partícula es un vector que apunta de _P1 a P2._ En la imagen de arribase muestra que este vector apunta a lo largo del eje X.
@@ -16,6 +16,52 @@ El _desplazamiento_ de la partícula es un vector que apunta de _P1 a P2._ En la
 
 ### Velocidad Media
 
+Definimos **velocidad media** de una partícula durante este intervalo de tiempo como una cantidad _vectorial_, cuya componente _x_ es el cambio en _x_ dividido entre el intervalo de tiempo:
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+En general, la velocidad media depende del intervalo de tiempo elegido. Durante un lapso de 3.0 s _antes_ del arranque, la velocidad media fue cero, porque el auto estaba en reposo en la línea de salida y tuvo un desplazamiento cero.
+
+{% hint style="danger" %}
+<mark style="color:red;">CUIDADO</mark>
+
+## <mark style="color:red;">El significado de Δx</mark>
+
+&#x20;**** No es el producto de Δ y **x;** es solo un símbolo que significa "el cambio en la cantidad **x**"  ****  Siempre se usa la letra griega mayúscula Δ (delta) para representar un _cambio_ en cierta cantidad, calculada restado el valor _inicial_ del valor _final_, y nunca a la inversa. Asimismo, el intervalo de tiempo de _t1 y t2_ es Δt, el cambio de la cantidad _t: Δt = t2 - t1_ (tiempo final menos tiempo inicial) __&#x20;
+{% endhint %}
 
 
-__
+
+La componente _x_ de la velocidad promedio, o **velocidad media**, es la componente _x_ del desplazamiento, _Δx_, dividida entre el intervalo de tiempo _Δt_ en el que ocurre el desplazamiento. Usamos el símbolo **Vmed-x** para representar velocidad media.
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+En el ejemplo de la partícula, teníamos que _x1 = 19m, x2 = 277m, t1 = 1.0s y t2 = 4.0s._ Así que la ecuación da: __&#x20;
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+La velocidad media del auto es positiva. Esto significa que, durante el intervalo, la coordenada _x_ aumentó y el auto se movió en la dirección +x.
+
+{% hint style="info" %}
+Siempre que _x_ sea positiva y aumente o sea negativa y se vuelva menos negativa, la partícula se mueve en la dirección +x y **Vmed-x** es positiva. Siempre que x sea positiva y disminuya, o sea negativa y se vuelva más negativa, la partícula se mueve en la dirección -x y **Vmed-x** es negativa.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+<mark style="color:orange;">CUIDADO</mark>
+
+## <mark style="color:orange;">Elección de dirección</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">x</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;">positiva</mark>
+
+No sucumba a la tentación de pensar que una velocidad media positiva implica necesariamente movimiento a la derecha, con en la figura del auto, y una velocidad media negativa implica movimiento a la izquierda, como en la figura de la camioneta.
+
+Tales conclusiones son correctas sólo si la dirección _+x_ es hacia la derecha, como elegimos en las figuras pasadas. Igualmente podríamos haber decidido que la dirección _+x_ fuera hacia la izquierda, con el origen en la llegada.
+{% endhint %}
+
+### Velocidad Instantánea
+
+La velocidad media de una partícula durante un intervalo de tiempo no nos indica con qué rapidez, o en qué dirección, la partícula se estaba moviendo en un instante dado del intervalo. Para describir el movimiento con mayor detalle, necesitamos definir la velocidad en cualquier instante específico o punto específico del camino. Ésta es la **velocidad instantánea**, y debe definirse con cuidado.
+
+<mark style="color:orange;"></mark>
