@@ -10,7 +10,7 @@ La conversión de unidades es importante, pero también lo es saber cuándo se r
 
 Las unidades se multiplican y se dividen igual que los símbolos algebraicos ordinarios. Esto facilita la conversión de una cantidad de un conjunto de unidades a otro. La idea clave es que podemos expresar la misma cantidad física en dos unidades distintas y formar una igualdad. Por ejemplo, al indicar que 1 min 5 60 s, no queremos decir que el número 1 sea igual al número 60, sino que 1 min representa el mismo intervalo de tiempo que 60 s. Por ello, el cociente (1 min)>(60 s) es igual a 1, lo mismo que su recíproco (60 s)>(1 min). Podemos multiplicar una cantidad por cualquiera de estos factores, sin alterar el significado físico de la misma. Por ejemplo, para averiguar cuántos segundos hay en 3 min, escribimos:
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Evaluar la respuesta&#x20;
 
