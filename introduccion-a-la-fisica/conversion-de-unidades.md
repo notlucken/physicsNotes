@@ -26,7 +26,7 @@ Por último, verifique si la respuesta es lógica. ¿El resultado _3 min = 180 s
 
 Queremos convertir las unidades de rapidez de km>h a m>s.&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### Ejecutar&#x20;
 
@@ -62,7 +62,7 @@ Para convertir pulgadas cúbicas a centímetros cúbicos, multiplicamos por \[(2
 
 También, 1 cm = 10 ^ -2 m, y:
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Evaluar&#x20;
 

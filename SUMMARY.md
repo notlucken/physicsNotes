@@ -12,9 +12,9 @@
 * [⌛ Estándares y Unidades](introduccion-a-la-fisica/estandares-y-unidades.md)
 * [↔ Conversión de Unidades](introduccion-a-la-fisica/conversion-de-unidades.md)
 
-## identity
+## ✈ Movimiento en Línea Recta
 
-* [Logos](identity/logos.md)
+* [Desplazamiento, Tiempo y Velocidad Media](movimiento-en-linea-recta/desplazamiento-tiempo-y-velocidad-media.md)
 
 ## Components
 
