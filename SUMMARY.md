@@ -3,7 +3,6 @@
 ## Bienvenidos
 
 * [✝ La Biblia de la Física](README.md)
-* [😙 Sobre mí](bienvenidos/sobre-mi.md)
 
 ## 🗣 Introducción a la Física
 
